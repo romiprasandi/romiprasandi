@@ -53,7 +53,7 @@ This GitHub profile is used to share:
 
 ## 🔗 Connect With Me
 
-* 💼 **LinkedIn**: linkedin/romiprasandi
+* 💼 **LinkedIn**: [linkedin/romiprasandi](https://www.linkedin.com/in/romiprasandi/)
 * 📸 **Instagram**: @rprasandi_
 
 > Open to discussions, collaboration, and knowledge sharing around infrastructure and data center technologies.
