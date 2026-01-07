@@ -1,6 +1,7 @@
-# 👋 Hi, I'm an Infrastructure Engineer
+# 👋 Hi, my name is Romi
+Server & Storage Engineer @Berca Hardayaperkasa (BHp)
 
-I am an **Infrastructure Engineer** with hands-on experience in **maintenance, deployment, and operation of IT infrastructure**, covering **storage systems, servers, and data center environments**. My day-to-day work involves working directly with physical infrastructure (on‑premise), including installation, deployment, and troubleshooting in production environments.
+I am a **Storage & Server Engineer** with hands-on experience in **maintenance, deployment, and operation of IT infrastructure**, covering **storage systems, servers, and data center environments**. My day-to-day work involves working directly with physical infrastructure (on‑premise), including installation, deployment, and troubleshooting in production environments.
 
 ---
 
